@@ -1,0 +1,11 @@
+id,name,category,quantity,price,location,created_at
+1,Cement,Building Materials,50,220.0,Warehouse A,2026-11-18T13:12:28
+2,Wood,Building Materials,120,85.5,Warehouse B,2026-11-18T13:12:28
+3,Screwdriver,Tools,25,150.0,Storage Room,2026-11-18T13:12:28
+4,Hammer,Tools,15,275.99,Storage Room,2026-11-18T13:12:28
+5,Paint,Finishing Materials,40,310.5,Warehouse A,2026-11-18T13:12:28
+6,Nails,Fasteners,500,2.5,Warehouse B,2026-11-18T13:12:28
+8,Gloves,Protective Equipment,75,45.0,Warehouse A,2026-11-18T13:12:28
+9,Tile Adhesive,Building Materials,0,180.0,Warehouse B,2026-11-18T13:12:28
+10,Measuring Tape,Tools,20,95.0,Storage Room,2026-11-18T13:12:39
+11,Ice cream,Snacks for stuff,11,30.0,Storage Room,2026-11-18T13:12:28
